@@ -1,0 +1,10 @@
+278  [main] INFO  org.eclipse.jetty.util.log - jetty-7.2.1.v20101111
+424  [main] INFO  org.eclipse.jetty.util.log - NO JSP Support for /myContext, did not find org.apache.jasper.servlet.JspServlet
+2539 [main] INFO  o.f.s.servlet.ServletTemplateEngine - Scalate template engine using working directory: P:\LAB-Document\Devops-new batch\Maven\apache-maven-3.6.3\IRCTE_Trains\target\scalate
+2546 [main] INFO  org.fusesource.scalate.TemplateEngine - No bootstrap class scalate.Boot found on classloader: WebAppClassLoader@MyWebAppApp
+2607 [main] INFO  org.eclipse.jetty.util.log - Started SelectChannelConnector@0.0.0.0:57781
+214  [main] INFO  org.eclipse.jetty.util.log - jetty-7.2.1.v20101111
+321  [main] INFO  org.eclipse.jetty.util.log - NO JSP Support for /myContext, did not find org.apache.jasper.servlet.JspServlet
+1828 [main] INFO  o.f.s.servlet.ServletTemplateEngine - Scalate template engine using working directory: P:\LAB-Document\Devops-new batch\Maven\apache-maven-3.6.3\IRCTE_Trains\target\scalate
+1838 [main] INFO  org.fusesource.scalate.TemplateEngine - No bootstrap class scalate.Boot found on classloader: WebAppClassLoader@MyWebAppApp
+1893 [main] INFO  org.eclipse.jetty.util.log - Started SelectChannelConnector@0.0.0.0:57796
